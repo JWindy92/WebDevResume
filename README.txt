@@ -1,6 +1,4 @@
-Basic flask app setup with bootstrap enabled
+Web Development Resume written in Flask
 
-includes:
-	base.html with simple navbar and 3 example links
-	index.html for home page with basic jumbotron header
-	basic route setup
+John Widmaier
+johnwid92@gmail.com
